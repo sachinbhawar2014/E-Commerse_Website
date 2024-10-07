@@ -1,2 +1,2 @@
 # E-Commerse_Website
- Functional E-commerse Website which showcase products and their details.
+ Developed an E-Commerce react web application that enables individuals to browse available items, add or remove them from their shopping cart, and complete the purchasing process.
